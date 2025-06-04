@@ -3,7 +3,7 @@
 
 ## How to Run
 
-1. **Clone** the repository:
+1. clone the repository:
    ```bash
    git clone https://github.com/rahmalitn/hospital-management-system
    npm install
